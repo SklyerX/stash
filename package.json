@@ -1,5 +1,5 @@
 {
-  "name": "@skylerx/stash",
+  "name": "@sklyerx/stash",
   "version": "1.0.0",
   "description": "A terminal-based encrypted link manager",
   "type": "module",
