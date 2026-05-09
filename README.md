@@ -7,7 +7,7 @@ Your data lives in `~/.stash/stash.db`, encrypted with SQLCipher behind a passwo
 ---
 
 <!-- Screenshot: drop an image here -->
-<!-- ![Stash terminal screenshot](./screenshot.png) -->
+![Stash terminal screenshot](./screenshots/quick-demo.gif)
 
 ---
 
