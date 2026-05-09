@@ -26,7 +26,7 @@ Your data lives in `~/.stash/stash.db`, encrypted with SQLCipher behind a passwo
 ## Installation
 
 ```bash
-npm install -g @skylerx/stash
+npm install -g @sklyerx/stash
 ```
 
 Then just run:
