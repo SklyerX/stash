@@ -1,6 +1,6 @@
 {
   "name": "@sklyerx/stash",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A terminal-based encrypted link manager",
   "type": "module",
   "main": "./dist/index.js",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "dev": "tsx src/index.ts",
-    "build": "bun build src/index.ts --target node --format esm --outfile dist/index.js && chmod +x dist/index.js",
+    "build": "bun build src/index.ts --target node --format esm --packages external --outfile dist/index.js && chmod +x dist/index.js",
     "prepublishOnly": "bun run build"
   },
   "devDependencies": {
